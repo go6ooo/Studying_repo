@@ -1,0 +1,6 @@
+D:\Telerik Academi 2016 - 2017\C# Foundamentals\CSharp-Part-1\Topics\02. Data-Types-and-Variables\homework\08.Isosceles Triangle\bin\Debug\08.Isosceles Triangle.exe.config
+D:\Telerik Academi 2016 - 2017\C# Foundamentals\CSharp-Part-1\Topics\02. Data-Types-and-Variables\homework\08.Isosceles Triangle\bin\Debug\08.Isosceles Triangle.exe
+D:\Telerik Academi 2016 - 2017\C# Foundamentals\CSharp-Part-1\Topics\02. Data-Types-and-Variables\homework\08.Isosceles Triangle\bin\Debug\08.Isosceles Triangle.pdb
+D:\Telerik Academi 2016 - 2017\C# Foundamentals\CSharp-Part-1\Topics\02. Data-Types-and-Variables\homework\08.Isosceles Triangle\obj\Debug\08.Isosceles Triangle.csprojResolveAssemblyReference.cache
+D:\Telerik Academi 2016 - 2017\C# Foundamentals\CSharp-Part-1\Topics\02. Data-Types-and-Variables\homework\08.Isosceles Triangle\obj\Debug\08.Isosceles Triangle.exe
+D:\Telerik Academi 2016 - 2017\C# Foundamentals\CSharp-Part-1\Topics\02. Data-Types-and-Variables\homework\08.Isosceles Triangle\obj\Debug\08.Isosceles Triangle.pdb

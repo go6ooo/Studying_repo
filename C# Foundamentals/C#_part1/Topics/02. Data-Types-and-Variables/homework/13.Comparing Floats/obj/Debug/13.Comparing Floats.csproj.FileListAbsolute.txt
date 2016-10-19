@@ -1,0 +1,5 @@
+D:\Telerik Academi 2016 - 2017\C# Foundamentals\CSharp-Part-1\Topics\02. Data-Types-and-Variables\homework\13.Comparing Floats\bin\Debug\13.Comparing Floats.exe.config
+D:\Telerik Academi 2016 - 2017\C# Foundamentals\CSharp-Part-1\Topics\02. Data-Types-and-Variables\homework\13.Comparing Floats\bin\Debug\13.Comparing Floats.exe
+D:\Telerik Academi 2016 - 2017\C# Foundamentals\CSharp-Part-1\Topics\02. Data-Types-and-Variables\homework\13.Comparing Floats\bin\Debug\13.Comparing Floats.pdb
+D:\Telerik Academi 2016 - 2017\C# Foundamentals\CSharp-Part-1\Topics\02. Data-Types-and-Variables\homework\13.Comparing Floats\obj\Debug\13.Comparing Floats.exe
+D:\Telerik Academi 2016 - 2017\C# Foundamentals\CSharp-Part-1\Topics\02. Data-Types-and-Variables\homework\13.Comparing Floats\obj\Debug\13.Comparing Floats.pdb

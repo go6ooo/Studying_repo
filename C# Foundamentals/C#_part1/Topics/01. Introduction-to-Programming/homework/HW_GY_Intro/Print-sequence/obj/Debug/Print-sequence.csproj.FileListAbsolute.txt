@@ -1,0 +1,5 @@
+D:\Telerik Academi 2016 - 2017\C# Foundamentals\CSharp-Part-1\Topics\01. Introduction-to-Programming\homework\HW_GY_Intro\Print-sequence\bin\Debug\Print-sequence.exe.config
+D:\Telerik Academi 2016 - 2017\C# Foundamentals\CSharp-Part-1\Topics\01. Introduction-to-Programming\homework\HW_GY_Intro\Print-sequence\bin\Debug\Print-sequence.exe
+D:\Telerik Academi 2016 - 2017\C# Foundamentals\CSharp-Part-1\Topics\01. Introduction-to-Programming\homework\HW_GY_Intro\Print-sequence\bin\Debug\Print-sequence.pdb
+D:\Telerik Academi 2016 - 2017\C# Foundamentals\CSharp-Part-1\Topics\01. Introduction-to-Programming\homework\HW_GY_Intro\Print-sequence\obj\Debug\Print-sequence.exe
+D:\Telerik Academi 2016 - 2017\C# Foundamentals\CSharp-Part-1\Topics\01. Introduction-to-Programming\homework\HW_GY_Intro\Print-sequence\obj\Debug\Print-sequence.pdb

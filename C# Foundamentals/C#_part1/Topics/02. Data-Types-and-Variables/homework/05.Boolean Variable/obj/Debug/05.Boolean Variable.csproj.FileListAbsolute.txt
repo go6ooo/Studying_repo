@@ -1,0 +1,5 @@
+D:\Telerik Academi 2016 - 2017\C# Foundamentals\CSharp-Part-1\Topics\02. Data-Types-and-Variables\homework\05.Boolean Variable\bin\Debug\05.Boolean Variable.exe.config
+D:\Telerik Academi 2016 - 2017\C# Foundamentals\CSharp-Part-1\Topics\02. Data-Types-and-Variables\homework\05.Boolean Variable\bin\Debug\05.Boolean Variable.exe
+D:\Telerik Academi 2016 - 2017\C# Foundamentals\CSharp-Part-1\Topics\02. Data-Types-and-Variables\homework\05.Boolean Variable\bin\Debug\05.Boolean Variable.pdb
+D:\Telerik Academi 2016 - 2017\C# Foundamentals\CSharp-Part-1\Topics\02. Data-Types-and-Variables\homework\05.Boolean Variable\obj\Debug\05.Boolean Variable.exe
+D:\Telerik Academi 2016 - 2017\C# Foundamentals\CSharp-Part-1\Topics\02. Data-Types-and-Variables\homework\05.Boolean Variable\obj\Debug\05.Boolean Variable.pdb

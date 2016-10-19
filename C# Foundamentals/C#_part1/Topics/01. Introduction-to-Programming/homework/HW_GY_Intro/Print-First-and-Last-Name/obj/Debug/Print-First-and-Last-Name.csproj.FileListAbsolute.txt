@@ -1,0 +1,1 @@
+D:\Telerik Academi 2016 - 2017\C# Foundamentals\CSharp-Part-1\Topics\01. Introduction-to-Programming\homework\HW_GY_Intro\Print-First-and-Last-Name\bin\Debug\Print-First-and-Last-Name.exe.config

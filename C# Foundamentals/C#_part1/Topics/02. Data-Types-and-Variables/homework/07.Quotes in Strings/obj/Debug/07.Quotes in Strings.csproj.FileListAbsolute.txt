@@ -1,0 +1,1 @@
+D:\Telerik Academi 2016 - 2017\C# Foundamentals\CSharp-Part-1\Topics\02. Data-Types-and-Variables\homework\07.Quotes in Strings\bin\Debug\07.Quotes in Strings.exe.config

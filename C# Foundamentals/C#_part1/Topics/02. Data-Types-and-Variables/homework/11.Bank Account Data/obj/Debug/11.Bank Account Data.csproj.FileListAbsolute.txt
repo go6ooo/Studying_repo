@@ -1,0 +1,1 @@
+D:\Telerik Academi 2016 - 2017\C# Foundamentals\CSharp-Part-1\Topics\02. Data-Types-and-Variables\homework\11.Bank Account Data\bin\Debug\11.Bank Account Data.exe.config

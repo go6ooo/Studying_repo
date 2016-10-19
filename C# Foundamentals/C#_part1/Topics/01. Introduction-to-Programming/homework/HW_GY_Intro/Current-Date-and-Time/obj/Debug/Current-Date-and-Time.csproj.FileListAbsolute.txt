@@ -1,0 +1,5 @@
+D:\Telerik Academi 2016 - 2017\C# Foundamentals\CSharp-Part-1\Topics\01. Introduction-to-Programming\homework\HW_GY_Intro\Current-Date-and-Time\bin\Debug\Current-Date-and-Time.exe.config
+D:\Telerik Academi 2016 - 2017\C# Foundamentals\CSharp-Part-1\Topics\01. Introduction-to-Programming\homework\HW_GY_Intro\Current-Date-and-Time\bin\Debug\Current-Date-and-Time.exe
+D:\Telerik Academi 2016 - 2017\C# Foundamentals\CSharp-Part-1\Topics\01. Introduction-to-Programming\homework\HW_GY_Intro\Current-Date-and-Time\bin\Debug\Current-Date-and-Time.pdb
+D:\Telerik Academi 2016 - 2017\C# Foundamentals\CSharp-Part-1\Topics\01. Introduction-to-Programming\homework\HW_GY_Intro\Current-Date-and-Time\obj\Debug\Current-Date-and-Time.exe
+D:\Telerik Academi 2016 - 2017\C# Foundamentals\CSharp-Part-1\Topics\01. Introduction-to-Programming\homework\HW_GY_Intro\Current-Date-and-Time\obj\Debug\Current-Date-and-Time.pdb

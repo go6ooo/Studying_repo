@@ -1,0 +1,1 @@
+D:\Telerik Academi 2016 - 2017\C# Foundamentals\CSharp-Part-1\Topics\02. Data-Types-and-Variables\homework\10.Employee Data\bin\Debug\10.Employee Data.exe.config

@@ -1,0 +1,5 @@
+D:\Telerik Academi 2016 - 2017\C# Foundamentals\CSharp-Part-1\Topics\01. Introduction-to-Programming\homework\HW_GY_Intro\Play-with-the-VS-Debugger\bin\Debug\Play-with-the-VS-Debugger.exe.config
+D:\Telerik Academi 2016 - 2017\C# Foundamentals\CSharp-Part-1\Topics\01. Introduction-to-Programming\homework\HW_GY_Intro\Play-with-the-VS-Debugger\bin\Debug\Play-with-the-VS-Debugger.exe
+D:\Telerik Academi 2016 - 2017\C# Foundamentals\CSharp-Part-1\Topics\01. Introduction-to-Programming\homework\HW_GY_Intro\Play-with-the-VS-Debugger\bin\Debug\Play-with-the-VS-Debugger.pdb
+D:\Telerik Academi 2016 - 2017\C# Foundamentals\CSharp-Part-1\Topics\01. Introduction-to-Programming\homework\HW_GY_Intro\Play-with-the-VS-Debugger\obj\Debug\Play-with-the-VS-Debugger.exe
+D:\Telerik Academi 2016 - 2017\C# Foundamentals\CSharp-Part-1\Topics\01. Introduction-to-Programming\homework\HW_GY_Intro\Play-with-the-VS-Debugger\obj\Debug\Play-with-the-VS-Debugger.pdb

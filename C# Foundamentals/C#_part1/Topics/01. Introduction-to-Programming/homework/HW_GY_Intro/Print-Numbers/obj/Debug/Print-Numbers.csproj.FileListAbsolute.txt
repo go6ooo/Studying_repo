@@ -1,0 +1,5 @@
+D:\Telerik Academi 2016 - 2017\C# Foundamentals\CSharp-Part-1\Topics\01. Introduction-to-Programming\homework\HW_GY_Intro\Print-Numbers\bin\Debug\Print-Numbers.exe.config
+D:\Telerik Academi 2016 - 2017\C# Foundamentals\CSharp-Part-1\Topics\01. Introduction-to-Programming\homework\HW_GY_Intro\Print-Numbers\bin\Debug\Print-Numbers.exe
+D:\Telerik Academi 2016 - 2017\C# Foundamentals\CSharp-Part-1\Topics\01. Introduction-to-Programming\homework\HW_GY_Intro\Print-Numbers\bin\Debug\Print-Numbers.pdb
+D:\Telerik Academi 2016 - 2017\C# Foundamentals\CSharp-Part-1\Topics\01. Introduction-to-Programming\homework\HW_GY_Intro\Print-Numbers\obj\Debug\Print-Numbers.exe
+D:\Telerik Academi 2016 - 2017\C# Foundamentals\CSharp-Part-1\Topics\01. Introduction-to-Programming\homework\HW_GY_Intro\Print-Numbers\obj\Debug\Print-Numbers.pdb

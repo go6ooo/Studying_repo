@@ -1,0 +1,6 @@
+D:\Telerik Academi 2016 - 2017\C# Foundamentals\CSharp-Part-1\Topics\02. Data-Types-and-Variables\homework\03.Variable in Hexadecimal Format\bin\Debug\03.Variable in Hexadecimal Format.exe.config
+D:\Telerik Academi 2016 - 2017\C# Foundamentals\CSharp-Part-1\Topics\02. Data-Types-and-Variables\homework\03.Variable in Hexadecimal Format\bin\Debug\03.Variable in Hexadecimal Format.exe
+D:\Telerik Academi 2016 - 2017\C# Foundamentals\CSharp-Part-1\Topics\02. Data-Types-and-Variables\homework\03.Variable in Hexadecimal Format\bin\Debug\03.Variable in Hexadecimal Format.pdb
+D:\Telerik Academi 2016 - 2017\C# Foundamentals\CSharp-Part-1\Topics\02. Data-Types-and-Variables\homework\03.Variable in Hexadecimal Format\obj\Debug\03.Variable in Hexadecimal Format.csprojResolveAssemblyReference.cache
+D:\Telerik Academi 2016 - 2017\C# Foundamentals\CSharp-Part-1\Topics\02. Data-Types-and-Variables\homework\03.Variable in Hexadecimal Format\obj\Debug\03.Variable in Hexadecimal Format.exe
+D:\Telerik Academi 2016 - 2017\C# Foundamentals\CSharp-Part-1\Topics\02. Data-Types-and-Variables\homework\03.Variable in Hexadecimal Format\obj\Debug\03.Variable in Hexadecimal Format.pdb

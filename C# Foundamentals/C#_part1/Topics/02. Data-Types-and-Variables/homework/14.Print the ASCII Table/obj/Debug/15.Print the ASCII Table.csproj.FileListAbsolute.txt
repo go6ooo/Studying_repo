@@ -1,0 +1,5 @@
+D:\Telerik Academi 2016 - 2017\C# Foundamentals\CSharp-Part-1\Topics\02. Data-Types-and-Variables\homework\15.Print the ASCII Table\bin\Debug\15.Print the ASCII Table.exe.config
+D:\Telerik Academi 2016 - 2017\C# Foundamentals\CSharp-Part-1\Topics\02. Data-Types-and-Variables\homework\15.Print the ASCII Table\bin\Debug\15.Print the ASCII Table.exe
+D:\Telerik Academi 2016 - 2017\C# Foundamentals\CSharp-Part-1\Topics\02. Data-Types-and-Variables\homework\15.Print the ASCII Table\bin\Debug\15.Print the ASCII Table.pdb
+D:\Telerik Academi 2016 - 2017\C# Foundamentals\CSharp-Part-1\Topics\02. Data-Types-and-Variables\homework\15.Print the ASCII Table\obj\Debug\15.Print the ASCII Table.exe
+D:\Telerik Academi 2016 - 2017\C# Foundamentals\CSharp-Part-1\Topics\02. Data-Types-and-Variables\homework\15.Print the ASCII Table\obj\Debug\15.Print the ASCII Table.pdb
